@@ -20,6 +20,7 @@ import sun.security.util.Length;
 public class InsertionSort {
 
     public static void main(String[] args) {
+System.out.println("aaaa");
 
         int array[] = {12, 44, 4, 36, 18, 21}; //6个元素
 
